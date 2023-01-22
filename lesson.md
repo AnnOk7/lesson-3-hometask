@@ -49,4 +49,4 @@ trump
 
 - *git clone*
 - *git remote remove origin*
-- и др.
+- и др. команды
